@@ -1,1 +1,1 @@
-# WaterQualityPrediction
+# Water Quality Prediction
